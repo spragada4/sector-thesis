@@ -37,4 +37,4 @@ def get_macro(start="2015-01-01"):
 
 if __name__ == "__main__":
     get_prices()
-    get_macro()
+    get_macro() 
